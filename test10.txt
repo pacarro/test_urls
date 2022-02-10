@@ -1,7 +1,7 @@
-0.tcp.ngrok.io
-0202.com.tw
-021oiyzis.ml
-027wuhan.com
-07q6zf664zv.mceco.co
-1-checkcovid.com
-100bellscoronaviruspandemiclockdown.golf
+10.tcp.ngrok.io
+10202.com.tw
+1021oiyzis.ml
+1027wuhan.com
+107q6zf664zv.mceco.co
+11-checkcovid.com
+1100bellscoronaviruspandemiclockdown.golf
