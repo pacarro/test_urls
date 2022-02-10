@@ -1,7 +1,1 @@
-10.tcp.ngrok.io
-10202.com.tw
-1021oiyzis.ml
-1027wuhan.com
-107q6zf664zv.mceco.co
-11-checkcovid.com
-1100bellscoronaviruspandemiclockdown.golf
+testing
